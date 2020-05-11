@@ -1,14 +1,20 @@
-
+body {
+  
+}
 .box {
   background-color: grey;
   width: 25%;
   border: 0;
   display: inline-block;
+  padding: 10px;
 }
 
 .image {
   border-radius: 50%;
-  border: 5px solid blue;
+  border: 5px solid #3BB9FF;
+  margin-bottom: 30px;
+  position: relative;
+  left: 60px;
 }
 
 .box2 {
@@ -18,9 +24,18 @@
   width: 75%;
   position: absolute;
   left: 26%;
+  padding: 10px;
 }
 
 h3 {
-  background-color: blue;
+  background-color: #3BB9FF;
   border-style: outset;
+  margin-right: 60px;
+  font-family: 'Montserrat', sans-serif;
+  padding-left: 5px;
+  color: white;
+}
+
+p {
+  margin-right: 50px;
 }
