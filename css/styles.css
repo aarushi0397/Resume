@@ -1,5 +1,5 @@
 body {
-  
+  font-family: 'Montserrat', sans-serif;
 }
 .box {
   background-color: grey;
@@ -12,7 +12,7 @@ body {
 .image {
   border-radius: 50%;
   border: 5px solid #3BB9FF;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   position: relative;
   left: 60px;
 }
@@ -38,4 +38,19 @@ h3 {
 
 p {
   margin-right: 50px;
+}
+
+.u1 {
+  margin-right: 90px;
+  align-content: flex-start;
+}
+
+.C1 {
+  margin-top: 0;
+  padding: 5px;
+}
+
+.contact {
+  width: 9%;
+  height: 9%;
 }
