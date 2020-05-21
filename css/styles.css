@@ -46,11 +46,11 @@ p {
 }
 
 .C1 {
-  margin-top: 0;
+  margin: 0 auto;
   padding: 5px;
 }
 
-.contact {
+.image-size {
   width: 9%;
   height: 9%;
 }
