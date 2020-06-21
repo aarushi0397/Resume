@@ -13,7 +13,7 @@ body {
   padding-bottom: 100%;
 }
 
-.box-lti {
+.box-work {
   background-color: black;
   width: 25%;
   border: 0;
@@ -122,6 +122,10 @@ div.box2 p {
 @media (max-width: 1028px) {
 
   .box {
+    padding-bottom: 3500px;
+  }
+
+  .box-work {
     padding-bottom: 3500px;
   }
 
